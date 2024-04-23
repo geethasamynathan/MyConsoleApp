@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyConsoleApp
-build_property.ProjectDir = D:\Hexaware March 2024\Devops\MyConsoleApp\
+build_property.ProjectDir = d:\Hexaware March 2024\Devops\MyConsoleApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
